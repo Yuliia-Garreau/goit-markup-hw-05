@@ -828,6 +828,7 @@ body {
   align-items: center;
   justify-content: center;
   fill: transparent;
+  margin-right: 8px;
 }
 
 [type="checkbox"]:checked + .input-name-privacy .policy-span {
